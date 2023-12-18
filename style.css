@@ -1,0 +1,212 @@
+.homepage{
+    height:100%;
+    width:100%;
+    background-image:url(https://4.bp.blogspot.com/-dcL6W4L8lV8/U0vOWY3mdtI/AAAAAAAAAjY/QLSc14dX8QU/s1600/tumblr_mie3lzGaJR1qd4rnwo1_1280.jpg);
+background-repeat:no-repeat;
+    background-size:cover;
+    background-attachment: fixed;
+    text-align:center;
+    
+}
+.home p {
+    color:indigo;
+    font-family:Monospace;
+}
+
+
+button{
+    background-color:Indigo;
+    color:pink;
+    width: 300px;
+    height:70px;
+    text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 8px;
+  border-color:pink;
+}
+
+button a {
+    color:pink;
+    
+}
+button:hover {
+  background-color:BlueViolet; 
+}
+
+
+
+
+
+
+
+
+body {
+    background-color:Violet;
+}
+.bout{
+    text-align:center;
+}
+.intro {
+    text-align:center;
+    border: 8px solid pink;
+    background-image: url("https://i.pinimg.com/originals/1b/c6/03/1bc603d5b02088e4fdb2706ca2a8a3ac.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-attachment: fixed;
+    border-radius: 8px;
+}
+.intro p{
+    color:Pink;
+    font-family:Monospace;
+}
+
+
+.rock {
+    height:100%;
+    width:100%;
+    background-image: url("https://wallpapers.com/images/hd/pink-sky-1541-x-900-wallpaper-m6you6zoasq4bsnr.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+    margin: 5px 5px 5px 5px;
+     border: 8px solid pink;
+     border-radius: 8px;
+}
+
+img {
+    height:100px;
+}
+ h1, h2{
+    color:Indigo ;
+}
+.rock {
+    text-align:center;
+}
+.rock h2{
+     display: inline-block;
+}
+
+.youtube h2{
+     display: inline-block;
+}
+
+.rock img:hover  {
+    animation-name: example;
+    animation-duration: 0.5s;
+    animation-direction: unset;
+}    
+@keyframes example {
+  from { height: 100px; }
+  to { height: 150px; }
+}
+
+
+
+}
+
+.rock p {
+    font-family:Monospace;
+    color:indigo;
+}  
+
+
+p {
+    text-align:center;
+    font-size:18px;
+    color:DarkViolet;
+    font-family:Monospace;
+}
+.youtube h2{
+    color:Indigo ;
+}
+
+
+
+
+
+
+
+.education {
+    text-align:center;
+    background-image: url("https://get.pxhere.com/photo/nature-horizon-light-cloud-sky-sun-sunrise-sunset-sunlight-morning-dawn-atmosphere-dusk-daytime-evening-orange-red-cumulus-romantic-blue-blue-sky-in-the-morning-background-image-skies-clouds-mood-color-game-morgenstimmung-atmospheric-awakening-morning-light-afterglow-morning-sun-morgenrot-early-in-the-morning-in-the-early-morning-good-morning-meteorological-phenomenon-red-sky-at-morning-597562.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-attachment: fixed;
+}
+.title {
+    background-color:pink;
+    margin-left:700px;
+    margin-right:700px;
+    border-radius: 8px;
+}
+
+.orizont p{
+    color:indigo;
+    background-color:pink;
+    margin-left:400px;
+    margin-right:400px;
+    border-radius: 8px;
+    
+}
+.orizont img{
+    width:800px;
+    height:300px;
+    border:solid pink 10px;
+    border-radius: 8px;
+    
+}
+
+.orizont img:hover{
+    filter: grayscale(90%);
+    transition:0.5s;
+}
+.orizont img:active{
+    width:80%;
+    height:80%;
+}
+
+
+
+
+
+
+
+
+#gogol {
+    height:430px;
+}
+#gogol:active{
+    height:80%;
+}
+
+
+
+
+.contact{
+    text-align:center;
+    background-image: url("https://www.wallpaperflare.com/static/291/819/637/clouds-sunset-sky-sunset-wallpaper.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-attachment: fixed;
+}
+.contact p, .contact h1, .contact a  {
+    color:pink;
+    
+    
+}
+.contact p{
+    border:pink solid 8px;
+    border-radius: 8px;
+}
+.contact a:hover{
+    font-size:200%;
+    color:red;
+    transition:0.5s;
+}
+
+
+
+.smile:hover {
+    font-size:1050%;
+    transition:1s;
+}
